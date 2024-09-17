@@ -27,3 +27,13 @@ const myfunction = function(){
     
 }
 console.log(typeof bigNumber);
+
+
+
+// *************************//
+
+
+// Stack, Heap memory
+// primitive - stack use hota hai , heap - non primitive
+let myYoutubename = "ritu"
+let anothername = myYoutubename
