@@ -18,8 +18,8 @@
 //That's why null>=0 is true and null>0 is false
 
 
-// === 
-console.log("2" === 2);
+// === strict check 
+console.log("2" === 2); //checks the datatype also
 
 
 
